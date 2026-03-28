@@ -1,2 +1,2 @@
-# -Data-analysis-with-Python-libraries-for-powerful-data-driven-decisions.
-Performed exploratory data analysis on Zomato data using Python to improve the customer experience.
+# Automated Email Delivery of Daily Flipkart Data Dumps.
+Developed a JavaScript-based automation to generate and share daily Flipkart brand PO and lifestyle data dumps via email, reducing manual effort and improving reporting efficiency.
